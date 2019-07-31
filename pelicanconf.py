@@ -4,8 +4,8 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Sourav Datta'
 SITENAME = 'AllThatIsOKBut'
-SITEURL = ''
-
+SITEURL = 'http://souravdatta.github.io/site'
+RELATIVE_URLS = True
 PATH = 'content'
 
 TIMEZONE = 'Asia/Kolkata'
