@@ -1,0 +1,6 @@
+Change/add content
+Generate htmls: pelican content -o userpages -s publishconf.py
+Git push origin master
+Checkout userpages
+Git push origin userpages
+Git push site master
