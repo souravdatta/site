@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>AllThatIsOKBut</title><link href="https://souravdatta.github.io/" rel="alternate"></link><link href="https://souravdatta.github.io/feeds/all.atom.xml" rel="self"></link><id>https://souravdatta.github.io/</id><updated>2019-07-30T00:00:00+05:30</updated><entry><title>The Naive Philospher asks "what is living"?</title><link href="https://souravdatta.github.io/the-naive-philospher-asks-what-is-living.html" rel="alternate"></link><published>2019-07-30T00:00:00+05:30</published><updated>2019-07-30T00:00:00+05:30</updated><author><name>Sourav Datta</name></author><id>tag:souravdatta.github.io,2019-07-30:/the-naive-philospher-asks-what-is-living.html</id><summary type="html">&lt;h6&gt;In the beginning there was a question&lt;/h6&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>AllThatIsOKBut</title><link href="https://souravdatta.github.io/" rel="alternate"></link><link href="https://souravdatta.github.io/feeds/all.atom.xml" rel="self"></link><id>https://souravdatta.github.io/</id><updated>2019-07-30T00:00:00+05:30</updated><entry><title>Episode 1 - The Naive Philospher asks "what is living"?</title><link href="https://souravdatta.github.io/episode-1-the-naive-philospher-asks-what-is-living.html" rel="alternate"></link><published>2019-07-30T00:00:00+05:30</published><updated>2019-07-30T00:00:00+05:30</updated><author><name>Sourav Datta</name></author><id>tag:souravdatta.github.io,2019-07-30:/episode-1-the-naive-philospher-asks-what-is-living.html</id><summary type="html">&lt;h4&gt;In the beginning there was a question&lt;/h4&gt;
 &lt;p&gt;So I was playing with my 3yo kid the other day, or at least was pretending to play 
 while scrolling endlessly in some app in my phone, when something happened. 
 He asked me a question -&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;kid&lt;/em&gt;: Why is this rabbit not taking care …&lt;/p&gt;</summary><content type="html">&lt;h6&gt;In the beginning there was a question&lt;/h6&gt;
+&lt;p&gt;&lt;em&gt;kid&lt;/em&gt;: Why is this rabbit not taking care …&lt;/p&gt;</summary><content type="html">&lt;h4&gt;In the beginning there was a question&lt;/h4&gt;
 &lt;p&gt;So I was playing with my 3yo kid the other day, or at least was pretending to play 
 while scrolling endlessly in some app in my phone, when something happened. 
 He asked me a question -&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;kid&lt;/em&gt;: Why is this rabbit not taking care of itself?&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;i&lt;/em&gt;: What? Which rabbit?&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;kid&lt;/em&gt;: That toy rabbit over there. See, it has a spot on its eye!&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;i&lt;/em&gt;: Oh that! That's a toy, must of fell down.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;i&lt;/em&gt;: Oh that! That's a toy, probably fell down.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;kid&lt;/em&gt;: But it should have taken care of itself, right?&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;i&lt;/em&gt;: How can a toy take care of itself?&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;kid&lt;/em&gt;: Why not? We all should take care of ourselves, like you said!&lt;/p&gt;
@@ -26,7 +26,7 @@ and failing to do so often causes real anxieties that may lead to even deeper
 philosophical questions like "Why is living?"  &lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;Back to dialectics now.&lt;/p&gt;
-&lt;h6&gt;Next there were some dialogues&lt;/h6&gt;
+&lt;h4&gt;Next there were some dialogues&lt;/h4&gt;
 &lt;p&gt;&lt;em&gt;kid&lt;/em&gt;: So what then, father, is living? How do I know that it is a toy
 and not an object which is alive?&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;i&lt;/em&gt;: Indeed that is a great question! Come to think of it, the first thing
@@ -38,7 +38,7 @@ moves because you make it so.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;i&lt;/em&gt;: Possibly.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;kid&lt;/em&gt;: Then father, is it the movement of alive things make it alive or
 just the ability to do so? Remember when my old grandfather was bed ridden
-for several days and he could move at all, not without help from others. 
+for several days and he couldn't move at all, not without help from others. 
 Event if he wanted to move on his own, he could not. But he was still alive,
 wasn't he?&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;i&lt;/em&gt;: Yes, you are right. However, it was only temporarily that he could not
@@ -48,4 +48,60 @@ something deeper - something to do with the organs of a being?&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;i&lt;/em&gt;: Perhaps you are right. Perhaps we should go much deeper. &lt;/p&gt;
 &lt;p&gt;&lt;em&gt;kid&lt;/em&gt;: How so?&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;i&lt;/em&gt;: We use reduction and go to that level where we talk in terms of the basic
-elements of living objects - i.e. cells.&lt;/p&gt;</content></entry></feed>
+elements of living objects - i.e. cells.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;kid&lt;/em&gt;: But can we not go further still and say that everything is made of 
+elementary particles and such? &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;i&lt;/em&gt;: We could, but that will lead us no where I am afraid! Because then at the basic level
+nothing is alive! Elementary particles which constitutes everything in the world - 
+they cannot be termed alive, but it is only a specific configuration of them - forming molecules
+and then higher complexities upto say a cellular system which can posses the properties
+that we can define as life.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;kid&lt;/em&gt;: What is so puzzling is the fact that at the lowest level we do not have
+life but only after a certain complexity is achieved, can we term it as life! 
+Therefore, should we say that complexity is what determines life?&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;i&lt;/em&gt;: Yes, but I think there must be some other fundamental properties too. A black hole is
+an enormously complex system, yet it is not alive. Or think of our earth as planetary
+whole - so complex, delicately balanced and non linear - yet not alive. Complexity
+is only an emergent behaviour of these fundamental ideas. I think if
+we stop at the level of cells, we can arrive at some definitions of aliveness.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;kid&lt;/em&gt;: How so?&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;i&lt;/em&gt;: I think we can say that a system is alive if it has at least &lt;strong&gt;N&lt;/strong&gt; cells which are
+alive. Now, &lt;strong&gt;N&lt;/strong&gt; is a number that can vary between species or between 
+individuals of that species as well. But for a particular object, we can define &lt;strong&gt;N&lt;/strong&gt;
+in terms of some rules that can be determined biologically.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;kid&lt;/em&gt;: Interesting, but is it not a recursive definition? We define &lt;strong&gt;Alive(System)&lt;/strong&gt; in terms 
+of &lt;strong&gt;Count({Alive(cell) | cell ∈ System})&lt;/strong&gt;. Then how do we determine the boundary 
+condition?&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;i&lt;/em&gt;: Perhaps we need to separate the criterion for aliveness of cell from
+that of system. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;kid&lt;/em&gt;: Or make &lt;strong&gt;Alive&lt;/strong&gt; polymorphic!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;i&lt;/em&gt;: Yes! Excellent! Lets do that. We define a living cell as:&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Alive(cell: Cell): Boolean&lt;/strong&gt; = &lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;If
+    * cell has a set of purposes AND
+    * cell is interested in survival of the self AND
+    * cell carries a program for constructing the system it belongs to AND
+    * cell one or more running processes which directly or indirectly satisfy the above
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;hr&gt;
+&lt;p&gt;All of above must be in place to call a cell alive.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;kid&lt;/em&gt;: Ok. So an alive system becomes something like:&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Alive(system: System): Boolean&lt;/strong&gt; = &lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;Let alive_cells = Count({Alive(cell) | cell ∈ system})
+    N = MinAliveCellsCount(system, System) // Minimum alive cells in the system to keep it alive
+If
+    * alive_cells &amp;gt;= N
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;hr&gt;
+&lt;p&gt;Thus we come to the conclusion of how to determine an alive system!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;i&lt;/em&gt;: Right! And with this you can tell whether the toy rabbit is alive or not.&lt;/p&gt;
+&lt;h4&gt;In the end there was a big cliff hanger&lt;/h4&gt;
+&lt;p&gt;As I stop the Plato process in my head and relax on my couch, a nagging sensation
+makes its way into my mind. I feel our philosophical argument, however satisfying it
+appears to me, lacks something - something very fundamental. And then it hits me!&lt;/p&gt;</content></entry></feed>
