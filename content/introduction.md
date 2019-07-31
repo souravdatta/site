@@ -68,5 +68,11 @@ move. His internal organs were functioning as is.
 _kid_: So may be movement isn't a necessary property of aliveness? May be
 something deeper - something to do with the organs of a being?
 
-_i_: Perhaps you are right. 
+_i_: Perhaps you are right. Perhaps we should go much deeper. 
+
+_kid_: How so?
+
+_i_: We use reduction and go to that level where we talk in terms of the basic
+elements of living objects - i.e. cells.
+
 
