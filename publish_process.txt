@@ -1,6 +1,11 @@
-Change/add content
-Generate htmls: pelican content -o userpages -s publishconf.py
-Git push origin master
-Checkout userpages
-Git push origin userpages
-Git push site master
+git remote add userpages <your github page>
+pelican content -o userpages -s publishconf.py
+ghp-import userpages
+git push -u --force userpages gh-pages:master
+
+goto github and create a new file named CNAME and add below:
+allthatisokbut.com
+www.allthatisokbut.com
+
+git pull --rebase
+git push origin master
